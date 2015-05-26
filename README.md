@@ -11,6 +11,6 @@ you can use ASync and Simple SqlDataReader. And also you can overloads function 
 
 
 ##########################################################################################
-University : Royal University of Phnompenh
-Created : 26/05/2015
-Credit : Sophat Vathana.
+University : Royal University of Phnompenh </br>
+Created : 26/05/2015 </br>
+Credit : Sophat Vathana. </br>
